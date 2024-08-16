@@ -119,6 +119,11 @@ See [API docs](docs/api.md)
 
 ## Testing
 
+Open test coverage report
+```bash
+go tool cover -html=cover.out
+```
+
 Run unit tests
 ```bash
 make test
