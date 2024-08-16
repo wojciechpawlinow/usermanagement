@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eff65c5f-a633-4260-9c1c-317e22f7d9fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.4.darwin-arm64" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kZIw6ps13J7jLeeIPrKS7IbIMM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build github.com/wojciechpawlinow/usermanagement/cmd/server.executor": "Run",
+    "Go Test.BenchmarkCreateUser in github.com/wojciechpawlinow/usermanagement/tests.executor": "Run",
+    "Go Test.TestCreateUser in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestDeleteUser/delete_user in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestGetAccountByID in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestGetUserByUUID/fail_invalid_request in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestGetUserByUUID/internal_server_error in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestGetUsers in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestGetUsers/fail_invalid_request in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestIntegration in github.com/wojciechpawlinow/usermanagement/tests.executor": "Run",
+    "Go Test.TestUpdateUser/invalid_user_ID in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestUpdateUser/update_user in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestUpdateUser/user_not_found in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestUpdateUser/validation_error in github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.TestUserService_Create in github.com/wojciechpawlinow/usermanagement/internal/application/service.executor": "Run",
+    "Go Test.TestUserService_Create/repository_error in github.com/wojciechpawlinow/usermanagement/internal/application/service.executor": "Run",
+    "Go Test.TestUserService_Create/successful_creation in github.com/wojciechpawlinow/usermanagement/internal/application/service.executor": "Run",
+    "Go Test.go test github.com/wojciechpawlinow/usermanagement/internal/application/service.executor": "Run",
+    "Go Test.go test github.com/wojciechpawlinow/usermanagement/internal/infrastructure/httpserver/handlers.executor": "Run",
+    "Go Test.go test github.com/wojciechpawlinow/usermanagement/tests.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/wpawlinow",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/internal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.BenchmarkCreateUser in github.com/wojciechpawlinow/usermanagement/tests">
+    <configuration name="BenchmarkCreateUser in github.com/wojciechpawlinow/usermanagement/tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="usermanagement" />
+      <working_directory value="$PROJECT_DIR$/tests" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wojciechpawlinow/usermanagement/tests" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gobench" />
+      <pattern value="^\QBenchmarkCreateUser\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserService_Create in github.com/wojciechpawlinow/usermanagement/internal/application/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="usermanagement" />
+      <working_directory value="$PROJECT_DIR$/internal/application/service" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestUserService_Create\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserService_Create/repository_error in github.com/wojciechpawlinow/usermanagement/internal/application/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="usermanagement" />
+      <working_directory value="$PROJECT_DIR$/internal/application/service" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestUserService_Create\E$/^\Qrepository_error\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserService_Create/successful_creation in github.com/wojciechpawlinow/usermanagement/internal/application/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="usermanagement" />
+      <working_directory value="$PROJECT_DIR$/internal/application/service" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestUserService_Create\E$/^\Qsuccessful_creation\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/wojciechpawlinow/usermanagement/internal/application/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="usermanagement" />
+      <working_directory value="$PROJECT_DIR$/internal/application/service" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.BenchmarkCreateUser in github.com/wojciechpawlinow/usermanagement/tests" />
+        <item itemvalue="Go Test.go test github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+        <item itemvalue="Go Test.TestUserService_Create/repository_error in github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+        <item itemvalue="Go Test.TestUserService_Create in github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+        <item itemvalue="Go Test.TestUserService_Create/successful_creation in github.com/wojciechpawlinow/usermanagement/internal/application/service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-b97fc8a1e17c-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.14494.238" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-GO-241.14494.238" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/internal/application/service/user.go</url>
+          <line>92</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

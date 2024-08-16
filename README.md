@@ -32,6 +32,7 @@ I don't think it's necessary, but it all depends on the business requirements
 - It's worth doing memory dump and review allocations. Maybe it would be good to decrease number of allocations and sacrifice code maintainability to achieve performance
 - I could try make GetByUUID() and GetAddresses() concurrent when I fetch user from DB in application's service
 - I think "get user" and "get multiple" users deserve caching
+- `vendor` directory intentionally has been pushed as I consider `go mod vendor` as a good practice to avoid missing dependencies ( especially private )
 
 ## Project structure
 
@@ -55,8 +56,8 @@ This project is organized in a way that keeps different parts of the code separa
 │
 ├── /application
 │   └── /service
-|      └── user.go            # service interface and implementation, business and data flow controller
-|      └── (...)
+│      └── user.go            # service interface and implementation, business and data flow controller
+│      └── (...)
 │
 └── /infrastructure
     ├── /container
